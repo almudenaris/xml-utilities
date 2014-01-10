@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CBRQuery Id="null">
+
+<user id="id1">
+<lesson name="datatypes">
+	<concepto name="Integer" nota="10"/>
+	<concepto name="Real" nota ="5"/>
+	<concepto name="Boolean" nota ="0"/>
+	<concepto name="Char" nota="7"/>
+</lesson>
+
+<lesson name="entradaSalida">
+	<concepto name="Binary-files" nota="8"/>
+	<concepto name="Text-files" nota="5"/>
+	<concepto name="standar-io" nota="10"/>
+</lesson>
+
+<lesson name="conditional">
+	<concepto name="conditional" nota="5"/>
+	<concepto name="switch-sentence" nota="4"/>
+	<concepto name="if-sentence" nota ="8"/>
+	<concepto name="logical-expresion" nota="6"/>
+</lesson>
+
+<lesson name="iterative">
+	<concepto name="repeat-sentence" nota="8"/>
+	<concepto name="for-sentece" nota ="5"/>
+	<concepto name="do_while-sentence" nota="10"/>
+	<concepto name="while-sentence" nota="0"/>
+</lesson>
+
+<lesson name="datacomplex">
+	<concepto name="arrays_uni" nota="7"/>
+</lesson>
+
+<lesson name="datacomplex2">
+	<concepto name="arrays_multi" nota="5"/>
+</lesson>
+
+<lesson name="records">
+	<concepto name="records" nota="10"/>
+</lesson>
+
+<lesson name="subprograms">
+	<concepto name="functions" nota="5"/>
+	<concepto name="parametros" nota="4"/>
+	<concepto name="procedures" nota="6"/>
+	<concepto name="variables" nota="8"/>
+</lesson>
+
+<lesson name="string">
+	<concepto name="string" nota=""/>
+</lesson>
+<lesson name="list">
+	<concepto name="dinamic" nota=""/>
+</lesson>
+</user>
+</CBRQuery>
